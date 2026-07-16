@@ -21,3 +21,7 @@ __pycache__/
 
 models/
 catboost_info/
+
+# torchvision이 자동으로 다운로드하는 데이터셋
+01_basic/data/MNIST/
+02_cnn/data/FashionMNIST/
